@@ -1,0 +1,25 @@
+{
+  "name": "nooks-cafe-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to provide information on Animal Crossing: New Horizion in-game characters, animals, songs and more.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurthyy",
+  "license": "ISC",
+  "dependencies": {
+    "@nooksbazaar/acdb": "^0.2.8",
+    "discord.js": "^12.2.0",
+    "discord.js-menu": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "graphql": "^15.0.0",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.11",
+    "rcolor": "^2.0.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
