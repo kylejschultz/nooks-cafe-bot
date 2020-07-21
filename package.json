@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "graphql": "^15.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.9.11",
     "rcolor": "^2.0.2",
     "request": "^2.88.2"
